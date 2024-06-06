@@ -1,0 +1,24 @@
+body{
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+h1, h3{
+    color: #bd93f9;
+}
+
+button {
+    background-color: #6272a4;
+    border-color: #6272a4;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #44475a;
+    border-color: #6272a4;
+    color: #f8f8f2;
+}
+
+input::placeholder {
+    color: #f8f8f2;
+}

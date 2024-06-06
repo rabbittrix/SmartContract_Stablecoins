@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getReserveValue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Stablecoin.sol": "IOracle"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Stablecoin.sol": {
+			"keccak256": "0x7e8edcb7615c0ad1d585a2737280c658055b36e3e75eaf1b3754b7c87f8b575c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://32a58f5c868bb813ff71e7fc46e2132b0eec8b940847bc5d805f90d064eb353a",
+				"dweb:/ipfs/QmXoZxp3aDLEWbTNzvhAQc2ApUBR9x47kXQhiGWF9tv5pR"
+			]
+		}
+	},
+	"version": 1
+}

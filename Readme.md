@@ -1,0 +1,1 @@
+Stablecoins are cryptocurrencies designed to maintain a stable value, often pegged to fiat currencies like the dollar or euro. They work by backing them in tangible assets, such as money or crypto, maintaining a fixed parity to guarantee stability.
